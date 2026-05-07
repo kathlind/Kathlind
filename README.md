@@ -4,6 +4,15 @@
   <b>21 / early 42 student · Go enjoyer · DevOps learner · Linux & Neovim tinkerer</b>
 </p>
 
+<p align="center">
+  <a href="https://t.me/nikkinnik93">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://rocketchat-student.21-school.ru/direct/kathlind">
+    <img src="https://img.shields.io/badge/Rocket.Chat-F5455C?style=for-the-badge&logo=rocket.chat&logoColor=white" alt="Rocket.Chat" />
+  </a>
+</p>
+
 ---
 
 ### about me
